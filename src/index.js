@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { vanillaTextMask } from 'vanilla-text-mask';
+import vanillaTextMask from 'vanilla-text-mask';
 
 export function useTextMask(input, options) {
     React.useEffect(function () {
