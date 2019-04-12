@@ -1,0 +1,14 @@
+{
+  "name": "use-text-mask",
+  "version": "0.0.1",
+  "author": {
+    "name": "Victor Magalhães",
+    "url": "https://github.com/vhfmag"
+  },
+  "main": "src/index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8",
+    "vanilla-text-mask": "^5"
+  }
+}
