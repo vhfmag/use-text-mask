@@ -5,6 +5,7 @@
     "name": "Victor Magalhães",
     "url": "https://github.com/vhfmag"
   },
+  "types": "declaration.d.ts",
   "main": "src/index.js",
   "license": "MIT",
   "peerDependencies": {
